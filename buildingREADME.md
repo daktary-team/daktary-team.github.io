@@ -1,27 +1,31 @@
-Daktary
+# Daktary
 ==================
 
-Vision
+## Vision
 ------
 
-Daktary est une technologie qui permet d'afficher un contenu github et le rendre hautement lisible.
+Daktary est une technologie qui permet d'afficher un contenu rédactionnel github le rendre hautement lisible facilement modifiable et partageable.
 
 
-Objectif primaire
+## Objectif primaire
 -----------------
 
-- Rendre lisible une fiche markdown en utilisant le moteur daktary.api
-- Partager un ensemble de repository et dépôt
-- Personnaliser sa propre plateforme après un fork daktary
+- Fournir à des rédacteur un outil d'écriture et permettre une publication simple,
+- Fournir à des lecteur une lecture dénuée de polution visuelle permettant de rester focus sur le contenu,
+- Rendre hautement lisible, modifiable et partageable un rédactionnel,
+- Fournir à des explorateurs un outil permettant de visualiser puis naviguer à travers des repositories, dépôts et fiches.
 
-Objectifs secondaires
+## Objectifs secondaires
 ---------------------
 
-Moyens
+- Hacker Github, un outil orienté developpeur
+- Personnaliser sa propre plateforme après un fork daktary
+
+## Moyens
 ------
 
-Contraintes
+## Contraintes
 -----------
 
-Licence
+## Licence
 -------
