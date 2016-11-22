@@ -11,7 +11,6 @@
 - [ ] Afficher une erreur quand la ressource n'existe pas
 - [ ] Rechercher des ressources
 - [ ] Acceder à un dépôt sur Github
-- [ ]
 
 ## Stories réalisées
 
