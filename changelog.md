@@ -6,11 +6,12 @@
 
 ## Ensemble des fonctionnalités
 
-- Afficher une fiche
-- Naviguer dans un dépôt
-- Afficher une erreur quand la ressource n'existe pas
-- Rechercher des ressources
-- Acceder à un dépôt sur Github
+- [ ] Afficher une fiche
+- [ ] Naviguer dans un dépôt
+- [ ] Afficher une erreur quand la ressource n'existe pas
+- [ ] Rechercher des ressources
+- [ ] Acceder à un dépôt sur Github
+- [ ]
 
 ## Stories réalisées
 
