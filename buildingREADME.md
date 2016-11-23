@@ -35,4 +35,4 @@ Daktary est une technologie libre et open-source qui permet d'afficher un conten
 ## Licence
 -------
 
-Daktary à rédiger
+[CC0 1.0 universel (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed.fr)
