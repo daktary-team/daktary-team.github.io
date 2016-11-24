@@ -4,7 +4,7 @@
 ## Vision
 ------
 
-Daktary est une technologie libre et open-source qui permet d'afficher un contenu rédactionnel github afin de le rendre **lisible**, **modifiable** et **partageable**.
+Daktary est une technologie libre et open-source qui permet d'afficher un contenu rédactionnel hébergé sur github afin de le rendre **lisible**, **modifiable** et **partageable**.
 
 
 ## Objectifs primaires
