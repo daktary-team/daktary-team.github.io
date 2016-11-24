@@ -7,13 +7,14 @@
 Daktary est une technologie libre et open-source qui permet d'afficher un contenu rédactionnel github afin de le rendre **lisible**, **modifiable** et **partageable**.
 
 
-## Objectif primaire
+## Objectifs primaires
 -----------------
 
+- Rendre lisible, modifiable et partageable un rédactionnel :
 - Fournir à des rédacteurs un outil d'écriture et de stockage libre en ligne,
 - Fournir à des lecteurs un outil de lecture limitant le bruit visuel permettant de rester focus sur le contenu,
-- Fournir à des explorateurs un outil permettant de visualiser puis naviguer à travers des repositories, des dépôts et des fiches,
-- Rendre lisible, modifiable et partageable un rédactionnel.
+- Fournir à des explorateurs un outil permettant de visualiser puis naviguer à travers des repositories, des dépôts et des fiches.
+
 
 ## Objectifs secondaires
 ---------------------
