@@ -1,4 +1,4 @@
-# Documentation
+# Daktary
 
 - la carte qu'on a exploré
 - les outils existants
