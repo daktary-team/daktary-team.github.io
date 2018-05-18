@@ -21,20 +21,19 @@ Daktary est une technologie libre et open-source qui permet d'afficher un conten
 
 - Personnaliser sa propre plateforme de diffusion,
 - Permettre de faire une recherche dans le contenu diffusé.
+- Utiliser Github et son écosystème.
+- Permettre le fork des outils Daktary et leurs personnalisations.
+Les raisons
 
-## Moyens
-------
 
-- Hacker Github, un outil orienté developpeur,
-- Permettre le fork de Daktary et sa personnalisation.
+## Github
+------------
+Github est une plateforme propriétaire qui propose un service web d'hébergement utilisant le service de gestion de versions Git.
 
-## Contraintes
------------
+Ce serait sympa que notre projet soit partagé. Que d’autres développeurs ou utilisateurs puissent interagir avec le code.
+Pour faciliter la collaboration, il faut que l’on puisse suivre son évolution, retracer son historique de fabrication et entretenir une documentation.
 
-- Utilisation de Github à la place de Gitlab,
-- Le public ne connait pas du tout Github et n'est pas sensibilisé au code,
-- Le PO découvre tout juste sa nouvelle activité,
-- le nomadisme des membres.
+Choisir Github n’est pas l’option la plus éthique. Si le projet prend de l’ampleur, il sera sans doute intéressant de trouver une solution mieux orientée.
 
 ## Licence
 -------
